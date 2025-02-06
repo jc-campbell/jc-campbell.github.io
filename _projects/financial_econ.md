@@ -2,9 +2,9 @@
 layout: page
 title: Math Financial Economics
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/project_covers/financial_econ_coverimage.png
 importance: 1
-category: work
+category: school
 related_publications: true
 ---
 
