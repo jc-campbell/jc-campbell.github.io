@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of showcases from my classes, research that I&#39;ve been a part of, and pet projects I work on when I should be sleeping.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -409,9 +409,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-math-financial-economics",
-          title: 'Math Financial Economics',
-          description: "with background image",
+            },},{id: "projects-math-financial-economics-showcase",
+          title: 'Math Financial Economics Showcase',
+          description: "a showcase for concepts and visualizations from my time taking MATH 415, Math Financial Economics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/financial_econ/";
             },},{
