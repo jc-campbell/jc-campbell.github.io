@@ -37,5 +37,4 @@ group :other_plugins do
     # gem 'webrick' -- should be already installed by jekyll
 end
 
-gem 'feedjira', '~> 3.2'
 gem 'feedjira-parser-rss', '~> 0.1' # Add this if missing
