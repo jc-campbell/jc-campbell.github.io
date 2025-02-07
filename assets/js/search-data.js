@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -409,8 +409,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-math-financial-economics-showcase",
-          title: 'Math Financial Economics Showcase',
+            },},{id: "projects-portfolio-optimization-showcase",
+          title: 'Portfolio Optimization Showcase',
           description: "a showcase for concepts and visualizations from my time taking MATH 415, Math Financial Economics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/financial_econ/";
