@@ -6,6 +6,8 @@ img: assets/img/project_covers/financial_econ_coverimage.png
 importance: 1
 category: school
 tabs: true
+toc:
+  sidebar: left
 ---
 
 # Risk and Return

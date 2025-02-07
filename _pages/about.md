@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Aspiring academic at the College of William & Mary
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my portfolio! I am an economics student with a passion for research in finance, banking, and economic modeling. My academic and professional interests revolve around understanding financial markets, risk assessment, and the intersection of economics with policy decisions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my studies, I have worked extensively with data analysis, statistical modeling, and programming. I am proficient in Python, R and JavaScript, with experience in machine learning, Bayesian statistics, and economic forecasting. My work often involves optimizing complex problems, such as financial models and market predictions, using tools like PyMC, AMPL, and scikit-learn. [See my projects.](/projects)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my technical skills, I enjoy exploring interdisciplinary research, particularly how economic models can be enhanced using computational methods. Currently, I am seeking opportunities in finance, economic research, or data science where I can apply my skills in quantitative analysis, programming, and problem-solving. If you would like to connect, feel free to reach out!

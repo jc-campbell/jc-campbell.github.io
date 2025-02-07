@@ -27,9 +27,11 @@ $yellow-color: #efcc00 !default;
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
+$grey-semitransparent: transparentize($grey-color-dark, 0.5);
 $grey-900: #212529;
 
 $white-color: #ffffff !default;
+$white-semitransparent: transparentize($white-color, 0.5);
 $black-color: #000000 !default;
 
 // Theme colors
