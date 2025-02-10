@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of showcases from my classes, research that I&#39;ve been a part of, and pet projects I work on when I should be sleeping.",
           section: "Navigation",
@@ -23,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-modelling-stock-market-returns",
+      
+        title: "Modelling Stock Market Returns",
+      
+      description: "a statistial model of asset prices using a heirachical Bayesian model",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/stockreturnmodelling/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -411,7 +429,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-portfolio-optimization-showcase",
           title: 'Portfolio Optimization Showcase',
-          description: "a showcase for concepts and visualizations from my time taking MATH 415, Math Financial Economics",
+          description: "a showcase for concepts and visualizations from the various portfolio optimization techniques developed in MATH 415: Math Financial Economics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/financial_econ/";
             },},{
