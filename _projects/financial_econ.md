@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Portfolio Optimization Showcase
-description: a showcase for concepts and visualizations from my time taking MATH 415, Math Financial Economics
+description: "a showcase for concepts and visualizations from the various portfolio optimization techniques developed in MATH 415: Math Financial Economics."
 img: assets/img/project_covers/financial_econ_coverimage.png
 importance: 1
 category: school
 tabs: true
 toc:
   sidebar: left
+---
+
 ---
 
 # Risk and Return
@@ -45,3 +47,11 @@ hello:
 {% endtab %}
 
 {% endtabs %}
+
+---
+
+# Modelling Risk and Return in the Stock Market
+
+Markowitz Portfolio Optimization requires the construction of a multivariate random variable representing the expected returns of the set of available securities. For the purposes of the following, I will model the log-returns of Stock $i$, $\mathbf{r}_i$ as the following:
+
+$$\mathbf{r}_i \sim  \mathcal{N}(\bar r_i, \sigma_i)$$
