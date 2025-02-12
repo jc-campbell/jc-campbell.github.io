@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-modelling-stock-market-returns",
+        },{id: "post-the-normal-inverse-wishart-distribution",
+      
+        title: "The Normal Inverse Wishart Distribution",
+      
+      description: "a weird distribution for weird people",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/invwishart/";
+        
+      },
+    },{id: "post-modelling-stock-market-returns",
       
         title: "Modelling Stock Market Returns",
       
