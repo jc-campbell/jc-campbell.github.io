@@ -24,7 +24,21 @@ where:
 
 ### Priors
 
-We model the prior distribution for $\mu$ and $\Sigma$
+We model the prior distribution for $\mu$ and $\Sigma$ using a [normal-inverse-Wishart distribution](https://en.wikipedia.org/wiki/Normal-inverse-Wishart_distribution), which is a natural fit because of the way it plays nicely with the inference step.
+
+$$\mu | \Sigma \sim \mathcal{N}(\mu_0, \Sigma / \kappa_0) \hspace{16pt} \Sigma \sim \text{Inv-Wishart}(\Psi_0, v_0)$$
+
+where
+- $\mu_0 \in \mathbb{R}^N$ is the prior expected return vector
+- $\kappa_0 \in \mathbb{R}^+$ is the investor's confidence in the prior view on the mean
+- $v_0$ is the degrees of freedom
+- $\Psi_0$ is the scale matrix, a prior on $\Sigma$.
+
+If you're like me, reading all that gave you a headache. Before embarking on this project, I had never heard of the 1. 
+
+<div style="aspect-ratio: 16/9">
+  <iframe src="{{ '/assets/plotly/stockreturnmodelling_cov_scatterplot.html' | relative_url }}" frameborder='0' scrolling='no' height="100%" width="100%"></iframe>
+</div>
 
 ---
 ## **References**
