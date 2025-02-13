@@ -2,6 +2,7 @@
 layout: post
 title: Modelling Stock Market Returns
 description: a statistial model of asset prices using a heirachical Bayesian model
+thumbnail: /assets/img/AAPL_predictions.png
 date: 2025-02-08 11:59:00-0400
 tags: stock-market, statistics, statistical-modelling
 categories: MATH415, financial-economics
