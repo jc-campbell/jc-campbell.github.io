@@ -28,4 +28,5 @@ I’m an undergraduate economist at the College of William & Mary working at the
 
 My current research examines the siting and effects of Massachusetts Chapter 40B affordable housing developments, combining GIS workflows, administrative housing data, and census microdata to study both where these projects are built and how they affect surrounding communities.
 
+
 I’ll be starting a PhD in Economics in the fall, where I plan to continue working on housing, cities, and applied econometrics.
