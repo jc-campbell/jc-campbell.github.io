@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my portfolio! I am an economics student with a passion for research in finance, banking, and economic modeling. My academic and professional interests revolve around understanding financial markets, risk assessment, and the intersection of economics with policy decisions.
+I’m an undergraduate economist at the College of William & Mary working at the intersection of applied microeconomics, econometrics, and data science. My primary interests are in urban economics, housing policy, and financial systems, with a particular focus on causal inference and spatial data.
 
-Throughout my studies, I have worked extensively with data analysis, statistical modeling, and programming. I am proficient in Python, R and JavaScript, with experience in machine learning, Bayesian statistics, and economic forecasting. My work often involves optimizing complex problems, such as financial models and market predictions, using tools like PyMC, AMPL, and scikit-learn. [See my projects.](/projects)
+My current research examines the siting and effects of Massachusetts Chapter 40B affordable housing developments, combining GIS workflows, administrative housing data, and census microdata to study both where these projects are built and how they affect surrounding communities.
 
-Beyond my technical skills, I enjoy exploring interdisciplinary research, particularly how economic models can be enhanced using computational methods. Currently, I am seeking opportunities in finance, economic research, or data science where I can apply my skills in quantitative analysis, programming, and problem-solving. If you would like to connect, feel free to reach out!
+I’ll be starting a PhD in Economics in the fall, where I plan to continue working on housing, cities, and applied econometrics.
