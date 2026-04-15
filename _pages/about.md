@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Aspiring academic at the College of William & Mary
+subtitle: Incoming PhD Student at Michigan State University
 
 profile:
   align: right
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m an undergraduate economist at the College of William & Mary working at the intersection of applied microeconomics, econometrics, and data science. My primary interests are in urban economics, housing policy, and financial systems, with a particular focus on causal inference and spatial data.
+I’m an incoming Economics PhD student at Michigan State University, with a BA from the College of William & Mary. I work at the intersection of applied microeconomics, econometrics, and data science. My primary interests are in urban economics, housing policy, and financial systems, with a particular focus on causal inference and spatial data.
 
-My current research examines the siting and effects of Massachusetts Chapter 40B affordable housing developments, combining GIS workflows, administrative housing data, and census microdata to study both where these projects are built and how they affect surrounding communities.
+My recent research examines the siting and effects of Massachusetts Chapter 40B affordable housing developments, combining GIS workflows, administrative housing data, and census microdata to study both where these projects are built and how they affect surrounding communities.
 
-I’ll be starting a PhD in Economics in the fall, where I plan to continue working on housing, cities, and applied econometrics.
+At MSU, I plan to continue working on housing, cities, and applied econometrics.

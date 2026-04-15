@@ -1,22 +1,31 @@
 {
   "basics": {
     "name": "John Campbell",
-    "label": "Student",
+    "label": "Incoming PhD Student",
     "image": "",
     "email": "jccampbell01@wm.edu",
     "phone": "+1 (508) 579-1106",
     "url": "https://jc-campbell.github.io",
-    "summary": "A Student at The College of William & Mary studying Economics and Mathematics"
+    "summary": "Incoming Economics PhD student at Michigan State University. BA from The College of William & Mary in Economics and Mathematics."
   },
   "education": [
+    {
+      "institution": "Michigan State University",
+      "location": "East Lansing, MI, USA",
+      "url": "https://www.msu.edu",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2026",
+      "endDate": ""
+    },
     {
       "institution": "The College of William & Mary",
       "location": "Williamsburg, VA, USA",
       "url": "https://www.wm.edu",
       "area": "Economics & Mathematics",
-      "studyType": "B.S.",
+      "studyType": "B.A.",
       "startDate": "2022",
-      "endDate": "2026 (Exp)",
+      "endDate": "2026",
       "courses": [
         "Linear Algebra",
         "Probability",
